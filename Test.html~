@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>Main Title of Page</title>
+		<meta name="description" content="This is the simple content of your page that will not be displayed in your output but it is useful internally"/>
+	</head>
+	<body bgcolor="yello">
+	<h1>Hello</h1>
+	</body>
+</html>
+
